@@ -26,9 +26,3 @@
 ## email:
     (gideonrazzaq1158@gmail.com)
 
-## For additional questions:
-   Please reach me out through my email: verareyna79@gmail.com.
-   Here is a video on how to work the application.
-#[Video](https://youtu.be/5JcQzPESWo4)
-
-For illustration purposes here is a snapshot of real live instance:
